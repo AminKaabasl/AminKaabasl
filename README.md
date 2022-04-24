@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Amin Kaabasl the back-end programmer!!
+- 👀 I’m interested in being full stack developer... work with front-end and back-end!!
+- 🌱 I’m currently learning C++ and Java!!
+- 💞️ I’m looking to collaborate on ...
+- 📫 if you want to talk to me just send a messege in this email => aminxenonchannel@gmail.com
